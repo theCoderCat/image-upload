@@ -1,0 +1,345 @@
+Box,Row,Column,Species,Nature,Ability,Ball,HP,ATK,DEF,SpA,SpD,Spe,E_HP,E_ATK,E_DEF,E_SpA,E_SpD,E_SpE,Move1,Move2,Move3,Move4,EggMove1,EggMove2,EggMove3,EggMove4,OT,TID,TSV,ESV
+1,1,1,Heracross (M),Adamant,Swarm,Luxury Ball,31,31,31,31,31,31,0,0,0,0,0,0,Leer,Horn Attack,Endure,Rock Blast,Leer,Horn Attack,Endure,Rock Blast,Braviary,54341,1231,2864
+1,1,2,Charmander (M),Jolly,Solar Power,Luxury Ball,31,31,30,31,31,31,0,0,0,0,0,0,Growl,Dragon Pulse,Dragon Dance,Outrage,Growl,Dragon Pulse,Dragon Dance,Outrage,Braviary,54341,1231,1362
+1,1,3,Charmander (M),Jolly,Solar Power,Luxury Ball,31,31,31,22,31,31,0,0,0,0,0,0,Growl,Dragon Pulse,Dragon Dance,Outrage,Growl,Dragon Pulse,Dragon Dance,Outrage,Braviary,54341,1231,0123
+1,1,4,Heracross (F),Adamant,Moxie,Luxury Ball,31,31,31,26,31,31,0,0,0,0,0,0,Leer,Horn Attack,Endure,Rock Blast,Leer,Horn Attack,Endure,Rock Blast,Braviary,54341,1231,1003
+1,1,5,Heracross (M),Adamant,Moxie,Luxury Ball,31,31,31,00,31,31,0,0,0,0,0,0,Leer,Horn Attack,Endure,Rock Blast,Leer,Horn Attack,Endure,Rock Blast,Braviary,54341,1231,0823
+1,1,6,Heracross (M),Adamant,Moxie,Luxury Ball,31,31,31,31,31,31,0,0,0,0,0,0,Leer,Horn Attack,Endure,Rock Blast,Leer,Horn Attack,Endure,Rock Blast,Braviary,54341,1231,2191
+1,2,1,Heracross (F),Adamant,Moxie,Luxury Ball,31,31,31,31,30,31,0,0,0,0,0,0,Leer,Horn Attack,Endure,Rock Blast,Leer,Horn Attack,Endure,Rock Blast,Braviary,54341,1231,2608
+2,1,1,Croagunk (F),Adamant,Dry Skin,Poke Ball,31,31,29,31,21,31,0,0,0,0,0,0,Astonish,,,,Astonish,,,,Braviary,54341,1231,2565
+2,1,2,Croagunk (M),Adamant,Dry Skin,Poke Ball,31,31,31,31,25,31,0,0,0,0,0,0,Astonish,,,,Astonish,,,,Braviary,54341,1231,1599
+2,1,3,Croagunk (F),Adamant,Anticipation,Poke Ball,31,01,31,31,31,31,0,0,0,0,0,0,Astonish,,,,Astonish,,,,Braviary,54341,1231,3847
+2,1,4,Croagunk (F),Adamant,Anticipation,Poke Ball,30,31,31,31,31,31,0,0,0,0,0,0,Astonish,,,,Astonish,,,,Braviary,54341,1231,0680
+2,1,5,Skrelp (M),Modest,Poison Point,Poke Ball,31,31,10,31,31,31,0,0,0,0,0,0,Tackle,Smokescreen,Water Gun,,Tackle,Smokescreen,Water Gun,,Braviary,54341,1231,0804
+2,2,1,Fletchling (F),Adamant,Gale Wings,Dive Ball,31,31,16,31,31,31,0,0,0,0,0,0,Tackle,Growl,,,Tackle,Growl,,,Braviary,54341,1231,1409
+2,2,2,Fletchling (F),Adamant,Gale Wings,Dive Ball,31,31,31,31,15,31,0,0,0,0,0,0,Quick Attack,Peck,Agility,Flail,Tackle,Growl,,,Braviary,54341,1231,3033
+2,2,3,Fletchling (M),Adamant,Big Pecks,Dive Ball,31,31,31,31,25,31,0,0,0,0,0,0,Tackle,Growl,,,Tackle,Growl,,,Braviary,54341,1231,2223
+2,2,4,Fletchling (F),Adamant,Gale Wings,Dive Ball,31,31,31,31,19,31,0,0,0,0,0,0,Tackle,Growl,,,Tackle,Growl,,,Braviary,54341,1231,0135
+2,2,5,Fletchling (M),Adamant,Big Pecks,Dive Ball,31,31,31,31,31,09,0,0,0,0,0,0,Tackle,Growl,,,Tackle,Growl,,,Braviary,54341,1231,1847
+2,2,6,Fletchling (F),Adamant,Big Pecks,Dive Ball,26,31,31,31,31,31,0,0,0,0,0,0,Tackle,Growl,,,Tackle,Growl,,,Braviary,54341,1231,2476
+2,3,1,Fletchling (M),Adamant,Big Pecks,Dive Ball,31,31,31,31,19,31,0,0,0,0,0,0,Tackle,Growl,,,Tackle,Growl,,,Braviary,54341,1231,3838
+2,4,1,Tyrunt (M),Adamant,Strong Jaw,Poke Ball,07,31,31,31,31,31,0,0,0,0,0,0,Tail Whip,Tackle,Dragon Dance,Ice Fang,Tail Whip,Tackle,Dragon Dance,Ice Fang,Braviary,54341,1231,4089
+2,4,2,Tyrunt (M),Adamant,Strong Jaw,Poke Ball,30,25,30,26,31,31,0,0,0,0,0,0,Tail Whip,Tackle,,,Tail Whip,Tackle,,,Braviary,54341,1231,3775
+2,5,1,Eevee (M),Calm,Adaptability,Luxury Ball,31,31,21,31,31,31,0,0,0,0,0,0,Tail Whip,Curse,Yawn,Wish,Tail Whip,Curse,Yawn,Wish,Braviary,54341,1231,1655
+2,5,2,Eevee (M),Calm,Run Away,Luxury Ball,31,31,31,12,31,31,0,0,0,0,0,0,Tail Whip,Curse,Yawn,Wish,Tail Whip,Curse,Yawn,Wish,Braviary,54341,1231,3987
+2,5,3,Eevee (M),Calm,Run Away,Luxury Ball,31,31,31,31,15,31,0,0,0,0,0,0,Tail Whip,Curse,Yawn,Wish,Tail Whip,Curse,Yawn,Wish,Braviary,54341,1231,2405
+3,1,1,Gyarados (F),Hasty,Intimidate,Ultra Ball,04,31,12,31,00,31,252,252,0,0,2,4,Waterfall,Protect,Dragon Dance,Rain Dance,,,,,たけと,56378,3726,2202
+3,1,2,Magikarp (M),Jolly,Swift Swim,Luxury Ball,10,31,31,31,31,31,35,20,0,0,0,25,Splash,,,,Splash,,,,Braviary,54341,1231,2116
+3,1,3,Magikarp (F),Jolly,Swift Swim,Luxury Ball,31,31,07,31,31,31,0,0,0,0,0,0,Splash,,,,Splash,,,,Braviary,54341,1231,3827
+3,1,4,Magikarp (F),Jolly,Swift Swim,Luxury Ball,31,31,17,31,31,31,35,20,0,0,0,25,Splash,,,,Splash,,,,Braviary,54341,1231,2183
+3,2,1,Chimchar (M),Jolly,Blaze,Poke Ball,31,31,03,31,31,31,0,0,0,0,0,0,Leer,Fire Punch,Thunder Punch,Fake Out,Leer,Fire Punch,Thunder Punch,Fake Out,Braviary,54341,1231,0323
+3,2,2,Chimchar (M),Jolly,Iron Fist,Poke Ball,31,31,31,31,04,31,0,0,0,0,0,0,Scratch,Leer,Fake Out,,Scratch,Leer,Fake Out,,Braviary,54341,1231,2719
+3,3,1,Pinsir (F),Adamant,Moxie,Luxury Ball,31,31,31,02,31,24,0,0,0,0,0,0,Focus Energy,Bind,Seismic Toss,Harden,Vice Grip,Focus Energy,,,Braviary,54341,1231,2512
+3,3,2,Pinsir (M),Adamant,Moxie,Luxury Ball,31,31,31,31,31,24,0,2,0,0,0,0,Vice Grip,Focus Energy,Bind,Seismic Toss,Vice Grip,Focus Energy,,,Braviary,54341,1231,1628
+3,3,3,Larvesta (F),Modest,Flame Body,Poke Ball,31,31,31,31,12,31,0,0,0,0,0,0,Ember,String Shot,,,Ember,String Shot,,,Braviary,54341,1231,3866
+3,3,4,Larvesta (M),Modest,Flame Body,Poke Ball,31,31,12,31,31,31,0,0,0,0,0,0,Ember,String Shot,,,Ember,String Shot,,,Braviary,54341,1231,0201
+3,4,2,Honedge (M),Hasty,No Guard,Luxury Ball,31,31,31,31,09,31,0,0,0,0,0,0,Tackle,Swords Dance,Shadow Sneak,Metal Sound,Tackle,Swords Dance,Shadow Sneak,Metal Sound,Braviary,54341,1231,0658
+3,4,3,Honedge (M),Hasty,No Guard,Luxury Ball,31,31,31,31,31,01,0,0,0,0,0,0,Tackle,Swords Dance,Shadow Sneak,Metal Sound,Tackle,Swords Dance,Shadow Sneak,Metal Sound,Braviary,54341,1231,3684
+3,4,4,Honedge (F),Hasty,No Guard,Luxury Ball,31,31,15,31,31,31,0,0,0,0,0,0,Tackle,Swords Dance,Shadow Sneak,Metal Sound,Tackle,Swords Dance,Shadow Sneak,Metal Sound,Braviary,54341,1231,0331
+3,4,5,Honedge (M),Hasty,No Guard,Luxury Ball,31,01,31,31,31,31,0,0,0,0,0,0,Tackle,Swords Dance,Shadow Sneak,Metal Sound,Tackle,Swords Dance,Shadow Sneak,Metal Sound,Braviary,54341,1231,1583
+3,4,6,Honedge (F),Quiet,No Guard,Poke Ball,31,31,31,19,31,31,0,0,0,0,0,0,Tackle,Swords Dance,Shadow Sneak,Metal Sound,Tackle,Swords Dance,Shadow Sneak,Metal Sound,Braviary,54341,1231,2064
+3,5,1,Aegislash (F),Quiet,Stance Change,Poke Ball,31,31,31,31,12,31,7,11,2,8,1,2,Tackle,Swords Dance,Fury Cutter,Metal Sound,Tackle,Swords Dance,,,x,51905,1786,3623
+3,5,2,Honedge (F),Quiet,No Guard,Poke Ball,31,31,31,31,31,19,0,0,0,0,0,0,Tackle,Swords Dance,Metal Sound,,Tackle,Swords Dance,Metal Sound,,Braviary,54341,1231,3169
+3,5,3,Honedge (F),Hasty,No Guard,Luxury Ball,31,31,31,31,27,31,0,0,0,0,0,0,Pursuit,Autotomize,Aerial Ace,Retaliate,Tackle,Swords Dance,Metal Sound,Shadow Sneak,Braviary,54341,1231,0352
+3,5,4,Honedge (F),Brave,No Guard,Luxury Ball,31,19,31,31,31,25,0,0,0,0,0,0,Shadow Sneak,Aerial Ace,Retaliate,Slash,Tackle,Swords Dance,Metal Sound,,Aren,25825,2380,0287
+3,5,5,Honedge (M),Quiet,No Guard,Poke Ball,13,31,31,31,31,31,0,0,0,0,0,0,Tackle,Swords Dance,Shadow Sneak,Metal Sound,Tackle,Swords Dance,Shadow Sneak,Metal Sound,Braviary,54341,1231,1533
+4,1,1,Heracross (M),Adamant,Moxie,Luxury Ball,31,31,31,00,31,31,0,0,0,0,0,0,Leer,Horn Attack,Endure,Rock Blast,Leer,Horn Attack,Endure,Rock Blast,Nearlry,34407,4040,4040
+4,1,2,Froakie (M),Timid,Torrent,Dive Ball,31,31,18,31,31,31,0,0,0,0,0,0,Pound,Growl,,,Pound,Growl,,,Braviary,54341,1231,0025
+4,1,3,Froakie (M),Timid,Protean,Dive Ball,10,31,31,31,31,31,0,0,0,0,0,0,Pound,Growl,,,Pound,Growl,,,Braviary,54341,1231,0769
+4,1,4,Froakie (M),Timid,Protean,Dive Ball,31,31,31,31,05,31,0,0,0,0,0,0,Pound,Growl,,,Pound,Growl,,,Braviary,54341,1231,1374
+4,1,5,Froakie (M),Timid,Torrent,Dive Ball,31,27,31,31,31,31,0,0,0,0,0,0,Pound,Growl,,,Pound,Growl,,,Braviary,54341,1231,4068
+4,2,1,Froakie (M),Timid,Torrent,Dive Ball,31,31,01,31,31,31,0,0,0,0,0,0,Pound,Growl,,,Pound,Growl,,,Braviary,54341,1231,1364
+4,2,2,Froakie (M),Timid,Protean,Dive Ball,31,31,22,31,31,31,0,0,0,0,0,0,Pound,Growl,,,Pound,Growl,,,Braviary,54341,1231,1041
+4,2,3,Froakie (M),Timid,Protean,Dive Ball,31,31,31,23,31,31,0,0,0,0,0,0,Pound,Growl,,,Pound,Growl,,,Braviary,54341,1231,3066
+4,2,4,Froakie (M),Timid,Protean,Dive Ball,31,31,31,31,31,09,0,0,0,0,0,0,Pound,Growl,,,Pound,Growl,,,Braviary,54341,1231,0933
+4,3,1,Froakie (M),Timid,Torrent,Dive Ball,31,31,31,05,31,31,0,0,0,0,0,0,Pound,Growl,,,Pound,Growl,,,Braviary,54341,1231,1819
+4,3,2,Froakie (M),Modest,Protean,Poke Ball,31,00,31,31,31,31,0,0,0,0,0,0,Water Pulse,Smokescreen,Round,Fling,Pound,Growl,,,Braviary,54341,1231,1714
+4,3,3,Froakie (M),Timid,Protean,Dive Ball,31,31,31,31,26,31,0,0,0,0,0,0,Pound,Growl,,,Pound,Growl,,,Braviary,54341,1231,1634
+4,3,4,Froakie (M),Timid,Torrent,Dive Ball,21,31,31,31,31,31,0,0,0,0,0,0,Pound,Growl,,,Pound,Growl,,,Braviary,54341,1231,2057
+4,4,1,Froakie (M),Timid,Torrent,Dive Ball,31,31,31,08,31,31,0,0,0,0,0,0,Pound,Growl,,,Pound,Growl,,,Braviary,54341,1231,0892
+4,4,2,Froakie (M),Timid,Protean,Dive Ball,31,31,31,31,00,31,0,0,0,0,0,0,Pound,Growl,,,Pound,Growl,,,Braviary,54341,1231,2271
+4,4,3,Froakie (M),Timid,Protean,Dive Ball,14,31,31,31,31,31,0,0,0,0,0,0,Pound,Growl,,,Pound,Growl,,,Braviary,54341,1231,0127
+4,4,4,Froakie (F),Timid,Torrent,Dive Ball,31,31,31,31,31,31,0,0,0,0,0,0,Pound,Growl,,,Pound,Growl,,,Braviary,54341,1231,0591
+4,5,1,Froakie (M),Timid,Torrent,Dive Ball,31,25,31,31,31,31,0,0,0,0,0,0,Pound,Growl,,,Pound,Growl,,,Braviary,54341,1231,1821
+4,5,2,Froakie (F),Timid,Torrent,Dive Ball,31,31,31,31,01,31,0,0,0,0,0,0,Pound,Growl,,,Pound,Growl,,,Braviary,54341,1231,3772
+4,5,3,Froakie (M),Timid,Torrent,Dive Ball,31,31,31,31,19,31,0,0,0,0,0,0,Pound,Growl,,,Pound,Growl,,,Braviary,54341,1231,0873
+4,5,4,Froakie (M),Timid,Torrent,Dive Ball,28,31,31,31,31,31,0,0,0,0,0,0,Pound,Growl,,,Pound,Growl,,,Braviary,54341,1231,1982
+5,1,1,Phantump (F),Careful,Harvest,Poke Ball,31,31,31,31,31,01,0,0,0,0,0,0,Tackle,Confuse Ray,,,Tackle,Confuse Ray,,,Braviary,54341,1231,3359
+5,1,2,Phantump (M),Careful,Frisk,Poke Ball,31,31,16,31,31,31,0,0,0,0,0,0,Tackle,Confuse Ray,,,Tackle,Confuse Ray,,,Braviary,54341,1231,0656
+5,1,3,Phantump (M),Careful,Frisk,Poke Ball,31,31,31,12,31,31,0,0,0,0,0,0,Tackle,Confuse Ray,,,Tackle,Confuse Ray,,,Braviary,54341,1231,2214
+5,1,4,Phantump (M),Careful,Harvest,Poke Ball,07,31,31,31,31,31,0,0,0,0,0,0,Tackle,Confuse Ray,,,Tackle,Confuse Ray,,,Braviary,54341,1231,1647
+5,1,5,Phantump (F),Careful,Frisk,Poke Ball,31,24,31,31,31,31,0,0,0,0,0,0,Tackle,Confuse Ray,,,Tackle,Confuse Ray,,,Braviary,54341,1231,3394
+5,1,6,Phantump (M),Careful,Frisk,Poke Ball,31,31,31,29,31,31,0,0,0,0,0,0,Tackle,Confuse Ray,,,Tackle,Confuse Ray,,,Braviary,54341,1231,1312
+5,2,1,Phantump (F),Careful,Harvest,Poke Ball,31,01,31,31,31,31,0,0,0,0,0,0,Tackle,Confuse Ray,,,Tackle,Confuse Ray,,,Braviary,54341,1231,0045
+5,2,2,Phantump (F),Careful,Natural Cure,Poke Ball,31,31,31,12,31,31,0,0,0,0,0,0,Tackle,Confuse Ray,,,Tackle,Confuse Ray,,,Braviary,54341,1231,0280
+5,2,3,Phantump (F),Careful,Natural Cure,Poke Ball,31,31,31,11,31,31,0,0,0,0,0,0,Tackle,Confuse Ray,,,Tackle,Confuse Ray,,,Braviary,54341,1231,0788
+5,2,4,Phantump (M),Careful,Frisk,Poke Ball,31,31,10,31,31,31,0,0,0,0,0,0,Tackle,Confuse Ray,,,Tackle,Confuse Ray,,,Braviary,54341,1231,0922
+5,2,5,Phantump (M),Careful,Harvest,Poke Ball,27,31,31,31,31,31,0,0,0,0,0,0,Tackle,Confuse Ray,,,Tackle,Confuse Ray,,,Braviary,54341,1231,2007
+5,2,6,Phantump (F),Careful,Harvest,Poke Ball,31,31,31,31,31,07,0,0,0,0,0,0,Tackle,Confuse Ray,,,Tackle,Confuse Ray,,,Braviary,54341,1231,1399
+5,3,1,Phantump (F),Careful,Harvest,Poke Ball,31,29,31,21,31,31,0,0,0,0,0,0,Tackle,Confuse Ray,,,Tackle,Confuse Ray,,,Braviary,54341,1231,0975
+5,3,2,Phantump (M),Careful,Harvest,Poke Ball,31,31,05,31,31,31,0,0,0,0,0,0,Tackle,Confuse Ray,,,Tackle,Confuse Ray,,,Braviary,54341,1231,0952
+5,3,3,Phantump (M),Careful,Harvest,Poke Ball,31,31,31,31,03,31,0,0,0,0,0,0,Tackle,Confuse Ray,,,Tackle,Confuse Ray,,,Braviary,54341,1231,1133
+5,3,4,Phantump (F),Careful,Harvest,Poke Ball,31,29,31,31,31,31,0,0,0,0,0,0,Tackle,Confuse Ray,,,Tackle,Confuse Ray,,,Braviary,54341,1231,2620
+5,3,5,Phantump (F),Careful,Frisk,Poke Ball,31,31,31,21,31,30,0,0,0,0,0,0,Tackle,Confuse Ray,,,Tackle,Confuse Ray,,,Braviary,54341,1231,3683
+5,3,6,Phantump (F),Careful,Harvest,Poke Ball,31,31,10,31,31,31,0,0,0,0,0,0,Tackle,Confuse Ray,,,Tackle,Confuse Ray,,,Braviary,54341,1231,0798
+5,4,1,Phantump (F),Careful,Natural Cure,Poke Ball,20,31,31,31,31,31,0,0,0,0,0,0,Tackle,Confuse Ray,,,Tackle,Confuse Ray,,,Braviary,54341,1231,1977
+5,4,2,Phantump (M),Careful,Natural Cure,Poke Ball,31,31,02,31,31,31,0,0,0,0,0,0,Tackle,Confuse Ray,,,Tackle,Confuse Ray,,,Braviary,54341,1231,2566
+5,4,3,Phantump (M),Careful,Harvest,Poke Ball,22,31,31,31,31,31,0,0,0,0,0,0,Tackle,Confuse Ray,,,Tackle,Confuse Ray,,,Braviary,54341,1231,1768
+6,1,1,Heracross (F),Adamant,Moxie,Luxury Ball,31,31,31,31,31,04,0,0,0,0,0,0,Leer,Horn Attack,Endure,Rock Blast,Leer,Horn Attack,Endure,Rock Blast,Braviary,54341,1231,1286
+6,1,2,Heracross (M),Adamant,Moxie,Luxury Ball,31,31,31,31,23,31,0,0,0,0,0,0,Leer,Horn Attack,Endure,Rock Blast,Leer,Horn Attack,Endure,Rock Blast,Braviary,54341,1231,0146
+6,1,3,Heracross (M),Adamant,Moxie,Luxury Ball,31,31,08,31,31,31,0,0,0,0,0,0,Leer,Horn Attack,Endure,Rock Blast,Leer,Horn Attack,Endure,Rock Blast,Braviary,54341,1231,0136
+6,1,4,Heracross (F),Adamant,Moxie,Luxury Ball,31,31,21,31,31,31,0,0,0,0,0,0,Leer,Horn Attack,Endure,Rock Blast,Leer,Horn Attack,Endure,Rock Blast,Braviary,54341,1231,0268
+6,1,5,Heracross (M),Adamant,Moxie,Luxury Ball,31,24,31,31,31,31,0,0,0,0,0,0,Leer,Horn Attack,Endure,Rock Blast,Leer,Horn Attack,Endure,Rock Blast,Braviary,54341,1231,2470
+6,1,6,Heracross (M),Adamant,Moxie,Luxury Ball,31,31,31,31,31,16,0,0,0,0,0,0,Leer,Horn Attack,Endure,Rock Blast,Leer,Horn Attack,Endure,Rock Blast,Braviary,54341,1231,1167
+6,2,1,Heracross (M),Adamant,Moxie,Luxury Ball,31,31,31,31,31,25,0,0,0,0,0,0,Leer,Horn Attack,Endure,Rock Blast,Leer,Horn Attack,Endure,Rock Blast,Braviary,54341,1231,1996
+6,2,2,Heracross (F),Adamant,Moxie,Luxury Ball,31,31,31,19,31,30,0,0,0,0,0,0,Leer,Horn Attack,Endure,Rock Blast,Leer,Horn Attack,Endure,Rock Blast,Braviary,54341,1231,0660
+6,2,3,Heracross (F),Adamant,Moxie,Luxury Ball,31,19,31,31,31,31,0,0,0,0,0,0,Leer,Horn Attack,Endure,Rock Blast,Leer,Horn Attack,Endure,Rock Blast,Braviary,54341,1231,3972
+6,2,4,Heracross (M),Adamant,Moxie,Luxury Ball,31,31,31,31,31,01,0,0,0,0,0,0,Leer,Horn Attack,Endure,Rock Blast,Leer,Horn Attack,Endure,Rock Blast,Braviary,54341,1231,3847
+6,2,5,Heracross (M),Adamant,Moxie,Luxury Ball,31,17,31,31,31,31,0,0,0,0,0,0,Leer,Horn Attack,Endure,Rock Blast,Leer,Horn Attack,Endure,Rock Blast,Braviary,54341,1231,0900
+6,2,6,Heracross (M),Modest,Moxie,Luxury Ball,31,31,26,31,31,31,0,0,0,0,0,0,Leer,Horn Attack,Endure,Rock Blast,Leer,Horn Attack,Endure,Rock Blast,Braviary,54341,1231,0603
+6,3,1,Heracross (M),Modest,Swarm,Luxury Ball,31,31,31,18,31,31,0,0,0,0,0,0,Leer,Horn Attack,Endure,Rock Blast,Leer,Horn Attack,Endure,Rock Blast,Braviary,54341,1231,1801
+6,3,2,Heracross (M),Adamant,Moxie,Luxury Ball,31,31,31,31,31,28,0,0,0,0,0,0,Leer,Horn Attack,Endure,Rock Blast,Leer,Horn Attack,Endure,Rock Blast,Braviary,54341,1231,3432
+6,3,3,Heracross (F),Modest,Moxie,Luxury Ball,31,31,17,31,31,31,0,0,0,0,0,0,Leer,Horn Attack,Endure,Rock Blast,Leer,Horn Attack,Endure,Rock Blast,Braviary,54341,1231,0353
+6,3,4,Heracross (F),Adamant,Moxie,Luxury Ball,31,31,27,31,31,31,0,0,0,0,0,0,Leer,Horn Attack,Endure,Rock Blast,Leer,Horn Attack,Endure,Rock Blast,Braviary,54341,1231,0759
+6,3,5,Heracross (M),Adamant,Swarm,Luxury Ball,31,17,31,31,31,31,0,0,0,0,0,0,Leer,Horn Attack,Endure,Rock Blast,Leer,Horn Attack,Endure,Rock Blast,Braviary,54341,1231,4000
+6,3,6,Heracross (M),Modest,Swarm,Luxury Ball,31,31,31,20,31,31,0,0,0,0,0,0,Leer,Horn Attack,Endure,Rock Blast,Leer,Horn Attack,Endure,Rock Blast,Braviary,54341,1231,2622
+6,4,1,Heracross (M),Modest,Moxie,Luxury Ball,31,31,31,31,07,31,0,0,0,0,0,0,Leer,Horn Attack,Endure,Rock Blast,Leer,Horn Attack,Endure,Rock Blast,Braviary,54341,1231,3542
+6,4,2,Heracross (M),Adamant,Swarm,Luxury Ball,31,31,31,31,28,31,0,0,0,0,0,0,Leer,Horn Attack,Endure,Rock Blast,Leer,Horn Attack,Endure,Rock Blast,Braviary,54341,1231,0549
+6,4,3,Heracross (F),Adamant,Moxie,Luxury Ball,26,31,31,31,31,31,0,0,0,0,0,0,Leer,Horn Attack,Endure,Rock Blast,Leer,Horn Attack,Endure,Rock Blast,Braviary,54341,1231,1939
+6,4,4,Heracross (F),Adamant,Moxie,Luxury Ball,31,31,11,31,31,31,0,0,0,0,0,0,Leer,Horn Attack,Endure,Rock Blast,Leer,Horn Attack,Endure,Rock Blast,Braviary,54341,1231,1975
+6,4,5,Heracross (M),Adamant,Swarm,Luxury Ball,31,31,31,22,31,31,0,0,0,0,0,0,Aerial Ace,Rock Blast,Chip Away,Counter,Leer,Horn Attack,Endure,Rock Blast,Braviary,54341,1231,0832
+6,4,6,Heracross (F),Adamant,Guts,Luxury Ball,09,31,31,31,31,31,0,0,0,0,0,0,Leer,Horn Attack,Endure,Rock Blast,Leer,Horn Attack,Endure,Rock Blast,Braviary,54341,1231,3451
+6,5,1,Heracross (M),Adamant,Swarm,Luxury Ball,31,31,31,22,31,31,0,0,0,0,0,0,Leer,Horn Attack,Endure,Rock Blast,Leer,Horn Attack,Endure,Rock Blast,Braviary,54341,1231,2234
+6,5,2,Heracross (M),Adamant,Swarm,Luxury Ball,13,31,31,31,31,31,0,0,0,0,0,0,Leer,Horn Attack,Endure,Rock Blast,Leer,Horn Attack,Endure,Rock Blast,Braviary,54341,1231,0338
+6,5,3,Heracross (F),Adamant,Swarm,Luxury Ball,31,31,31,16,31,31,0,0,0,0,0,0,Leer,Horn Attack,Endure,Rock Blast,Leer,Horn Attack,Endure,Rock Blast,Braviary,54341,1231,0716
+6,5,4,Heracross (M),Adamant,Guts,Luxury Ball,31,31,31,22,31,31,0,0,0,0,0,0,Leer,Horn Attack,Endure,Rock Blast,Leer,Horn Attack,Endure,Rock Blast,Braviary,54341,1231,0698
+7,1,1,Charmander (M),Jolly,Solar Power,Luxury Ball,31,00,31,31,31,31,0,0,0,0,0,0,Scratch,Growl,Outrage,Dragon Dance,Scratch,Growl,Outrage,Dragon Dance,Braviary,54341,1231,1049
+7,1,2,Charmander (F),Modest,Solar Power,Luxury Ball,31,31,30,31,31,21,0,0,0,0,0,0,Growl,Dragon Pulse,Dragon Dance,Outrage,Growl,Dragon Pulse,Dragon Dance,Outrage,Braviary,54341,1231,2237
+7,1,3,Charmander (F),Jolly,Solar Power,Luxury Ball,31,31,30,31,31,31,0,0,0,0,0,0,Smokescreen,Dragon Rage,Scary Face,Fire Fang,Scratch,Growl,Outrage,,Braviary,54341,1231,1209
+7,1,4,Charmander (M),Jolly,Solar Power,Luxury Ball,31,06,31,31,31,31,0,0,0,0,0,0,Scratch,Growl,Outrage,Dragon Dance,Scratch,Growl,Outrage,Dragon Dance,Braviary,54341,1231,2220
+7,1,5,Charmander (M),Modest,Solar Power,Luxury Ball,31,31,31,31,31,10,0,0,0,0,0,0,Outrage,Ember,Smokescreen,Dragon Rage,Growl,Dragon Pulse,Dragon Dance,Outrage,Braviary,54341,1231,2606
+7,1,6,Charmander (M),Modest,Solar Power,Luxury Ball,31,31,31,31,21,31,0,0,0,0,0,0,Growl,Outrage,Dragon Pulse,Dragon Dance,Growl,Outrage,Dragon Pulse,Dragon Dance,Braviary,54341,1231,4036
+7,2,1,Charmander (M),Jolly,Solar Power,Luxury Ball,31,31,31,31,31,20,0,0,0,0,0,0,Scratch,Growl,Outrage,Dragon Dance,Scratch,Growl,Outrage,Dragon Dance,Braviary,54341,1231,3964
+7,2,2,Charmander (M),Jolly,Solar Power,Luxury Ball,03,31,31,31,31,31,0,0,0,0,0,0,Scratch,Growl,Outrage,Dragon Dance,Scratch,Growl,Outrage,Dragon Dance,Braviary,54341,1231,0643
+7,2,3,Charmander (M),Modest,Solar Power,Luxury Ball,31,31,07,31,31,31,0,0,0,0,0,0,Ember,Smokescreen,Dragon Rage,Scary Face,Growl,Dragon Pulse,Dragon Dance,Outrage,Braviary,54341,1231,3196
+7,2,4,Charmander (M),Jolly,Blaze,Luxury Ball,31,31,31,31,31,27,0,0,0,0,0,0,Scratch,Growl,Outrage,Dragon Dance,Scratch,Growl,Outrage,Dragon Dance,Braviary,54341,1231,3838
+7,2,5,Charmander (M),Jolly,Blaze,Luxury Ball,31,31,31,01,31,31,0,0,0,0,0,0,Scratch,Growl,Outrage,Dragon Dance,Scratch,Growl,Outrage,Dragon Dance,Braviary,54341,1231,0919
+7,2,6,Charmander (M),Modest,Solar Power,Luxury Ball,31,31,31,31,07,31,0,0,0,0,0,0,Growl,Dragon Pulse,Dragon Dance,Outrage,Growl,Dragon Pulse,Dragon Dance,Outrage,Braviary,54341,1231,1041
+7,3,1,Charmander (M),Jolly,Solar Power,Luxury Ball,31,31,31,31,19,31,0,0,0,0,0,0,Scratch,Growl,Outrage,,Scratch,Growl,Outrage,,Braviary,54341,1231,1015
+7,3,2,Charmander (M),Modest,Solar Power,Luxury Ball,31,31,01,31,31,31,0,0,0,0,0,0,Growl,Dragon Pulse,Dragon Dance,Outrage,Growl,Dragon Pulse,Dragon Dance,Outrage,Braviary,54341,1231,3359
+7,3,3,Charmander (M),Jolly,Solar Power,Luxury Ball,10,31,31,31,31,31,0,0,0,0,0,0,Scratch,Growl,Outrage,,Scratch,Growl,Outrage,,Braviary,54341,1231,2491
+7,3,4,Charmander (M),Modest,Solar Power,Luxury Ball,31,31,09,31,31,31,0,0,0,0,0,0,Growl,Dragon Pulse,Dragon Dance,Outrage,Growl,Dragon Pulse,Dragon Dance,Outrage,Braviary,54341,1231,2607
+7,3,5,Charmander (F),Adamant,Blaze,Dusk Ball,31,21,31,31,14,31,0,0,0,0,0,0,Dragon Dance,Dragon Pulse,Outrage,Flare Blitz,Dragon Dance,Dragon Pulse,Outrage,Flare Blitz,♣ノノハ♣♪,00405,3890,1059
+7,3,6,Charmander (M),Modest,Blaze,Luxury Ball,31,31,31,31,26,31,0,0,0,0,0,0,Growl,Dragon Pulse,Dragon Dance,Outrage,Growl,Dragon Pulse,Dragon Dance,Outrage,Braviary,54341,1231,1943
+7,4,1,Charmander (M),Jolly,Blaze,Luxury Ball,08,31,31,31,31,31,0,0,0,0,0,0,Growl,Outrage,Dragon Dance,Ember,Scratch,Growl,Outrage,Dragon Dance,Braviary,54341,1231,1194
+7,4,2,Charmander (M),Modest,Solar Power,Luxury Ball,04,31,31,31,31,31,0,0,0,0,0,0,Growl,Outrage,Dragon Pulse,Dragon Dance,Growl,Outrage,Dragon Pulse,Dragon Dance,Braviary,54341,1231,3432
+7,4,3,Charmander (M),Jolly,Solar Power,Luxury Ball,31,23,31,31,31,31,0,0,0,0,0,0,Scratch,Growl,Outrage,Dragon Dance,Scratch,Growl,Outrage,Dragon Dance,Braviary,54341,1231,1891
+7,4,4,Charmander (M),Jolly,Blaze,Luxury Ball,08,31,31,31,31,31,0,0,0,0,0,0,Scratch,Growl,Outrage,Dragon Dance,Scratch,Growl,Outrage,Dragon Dance,Braviary,54341,1231,3038
+7,4,5,Charmander (M),Jolly,Solar Power,Luxury Ball,26,31,31,31,31,31,0,0,0,0,0,0,Scratch,Growl,Outrage,Dragon Dance,Scratch,Growl,Outrage,Dragon Dance,Braviary,54341,1231,1827
+7,4,6,Charmeleon (F),Modest,Solar Power,Luxury Ball,31,20,31,13,31,31,0,0,0,252,0,252,Growl,Dragon Pulse,Dragon Dance,Outrage,Growl,Dragon Pulse,Dragon Dance,Outrage,Braviary,54341,1231,1143
+8,1,1,Togepi (M),Modest,Serene Grace,Premier Ball,31,31,31,31,31,19,0,0,0,0,0,0,Extrasensory,Psycho Shift,Mirror Move,Nasty Plot,Extrasensory,Psycho Shift,Mirror Move,Nasty Plot,Karl,21780,4022,3698
+8,1,2,Togepi (M),Modest,Serene Grace,Premier Ball,31,31,31,31,31,21,0,0,0,0,0,0,Extrasensory,Psycho Shift,Mirror Move,Nasty Plot,Extrasensory,Psycho Shift,Mirror Move,Nasty Plot,Karl,21780,4022,0821
+8,1,3,Togepi (M),Modest,Serene Grace,Premier Ball,31,31,20,31,31,31,0,0,0,0,0,0,Extrasensory,Psycho Shift,Mirror Move,Nasty Plot,Extrasensory,Psycho Shift,Mirror Move,Nasty Plot,Karl,21780,4022,3781
+8,1,4,Togepi (M),Modest,Serene Grace,Premier Ball,31,31,31,31,13,31,0,0,0,0,0,0,Extrasensory,Psycho Shift,Mirror Move,Nasty Plot,Extrasensory,Psycho Shift,Mirror Move,Nasty Plot,Karl,21780,4022,3642
+8,1,5,Togepi (M),Modest,Serene Grace,Premier Ball,07,31,31,31,31,31,0,0,0,0,0,0,Extrasensory,Psycho Shift,Mirror Move,Nasty Plot,Extrasensory,Psycho Shift,Mirror Move,Nasty Plot,Karl,21780,4022,3480
+8,1,6,Togepi (M),Modest,Serene Grace,Premier Ball,31,31,31,25,31,31,0,0,0,0,0,0,Extrasensory,Psycho Shift,Mirror Move,Nasty Plot,Extrasensory,Psycho Shift,Mirror Move,Nasty Plot,Karl,21780,4022,0667
+8,2,1,Togepi (M),Modest,Serene Grace,Premier Ball,31,31,31,31,31,16,0,0,0,0,0,0,Extrasensory,Psycho Shift,Mirror Move,Nasty Plot,Extrasensory,Psycho Shift,Mirror Move,Nasty Plot,Karl,21780,4022,3325
+8,2,2,Togepi (M),Modest,Serene Grace,Premier Ball,31,31,31,01,31,31,0,0,0,0,0,0,Extrasensory,Psycho Shift,Mirror Move,Nasty Plot,Extrasensory,Psycho Shift,Mirror Move,Nasty Plot,Karl,21780,4022,2890
+8,2,3,Togepi (M),Modest,Serene Grace,Premier Ball,31,31,31,31,31,08,0,0,0,0,0,0,Extrasensory,Psycho Shift,Mirror Move,Nasty Plot,Extrasensory,Psycho Shift,Mirror Move,Nasty Plot,Karl,21780,4022,0314
+8,2,4,Togepi (M),Modest,Serene Grace,Premier Ball,31,31,31,31,00,31,0,0,0,0,0,0,Extrasensory,Psycho Shift,Mirror Move,Nasty Plot,Extrasensory,Psycho Shift,Mirror Move,Nasty Plot,Karl,21780,4022,3654
+8,2,5,Togepi (M),Modest,Serene Grace,Premier Ball,31,31,24,31,31,31,0,0,0,0,0,0,Extrasensory,Psycho Shift,Mirror Move,Nasty Plot,Extrasensory,Psycho Shift,Mirror Move,Nasty Plot,Karl,21780,4022,3781
+8,2,6,Togepi (M),Modest,Serene Grace,Premier Ball,31,31,31,31,31,13,0,0,0,0,0,0,Extrasensory,Psycho Shift,Mirror Move,Nasty Plot,Extrasensory,Psycho Shift,Mirror Move,Nasty Plot,Karl,21780,4022,1251
+9,1,1,Kangaskhan (F),Jolly,Scrappy,Luxury Ball,31,31,09,31,31,31,0,0,0,0,0,0,Fake Out,Tail Whip,Bite,Double Hit,Comet Punch,Leer,,,Braviary,54341,1231,1468
+9,1,2,Kangaskhan (F),Adamant,Early Bird,Luxury Ball,30,19,01,00,29,30,0,0,0,0,0,0,Fake Out,Tail Whip,Bite,Double Hit,,,,,Braviary,54341,1231,2683
+9,1,3,Kangaskhan (F),Jolly,Early Bird,Luxury Ball,31,31,31,31,31,18,0,0,0,0,0,0,Comet Punch,Leer,,,Comet Punch,Leer,,,Braviary,54341,1231,2950
+9,1,4,Kangaskhan (F),Jolly,Early Bird,Luxury Ball,18,31,31,31,31,30,0,0,0,0,0,0,Leer,Fake Out,Tail Whip,Bite,Comet Punch,Leer,,,Braviary,54341,1231,2269
+9,1,5,Kangaskhan (F),Jolly,Early Bird,Luxury Ball,31,31,31,31,21,31,0,0,0,0,0,0,Comet Punch,Leer,,,Comet Punch,Leer,,,Braviary,54341,1231,1698
+9,1,6,Kangaskhan (F),Jolly,Early Bird,Luxury Ball,31,31,31,31,31,24,0,0,0,0,0,0,Comet Punch,Leer,,,Comet Punch,Leer,,,Braviary,54341,1231,3370
+9,2,1,Kangaskhan (F),Jolly,Early Bird,Luxury Ball,31,31,09,31,31,31,0,0,0,0,0,0,Comet Punch,Leer,,,Comet Punch,Leer,,,Braviary,54341,1231,1950
+9,2,2,Kangaskhan (F),Jolly,Scrappy,Luxury Ball,31,13,31,31,31,31,0,0,0,0,0,0,Comet Punch,Leer,,,Comet Punch,Leer,,,Braviary,54341,1231,2022
+9,2,3,Kangaskhan (F),Jolly,Scrappy,Luxury Ball,26,31,09,31,31,31,0,0,0,0,0,0,Comet Punch,Leer,,,Comet Punch,Leer,,,Braviary,54341,1231,0486
+9,2,4,Kangaskhan (F),Jolly,Early Bird,Luxury Ball,31,31,31,28,31,18,0,0,0,0,0,0,Comet Punch,Leer,,,Comet Punch,Leer,,,Braviary,54341,1231,3715
+9,2,5,Kangaskhan (F),Jolly,Early Bird,Luxury Ball,31,31,31,28,03,31,0,0,0,0,0,0,Comet Punch,Leer,,,Comet Punch,Leer,,,Braviary,54341,1231,1627
+9,2,6,Kangaskhan (F),Jolly,Early Bird,Luxury Ball,31,00,31,31,31,31,0,0,0,0,0,0,Comet Punch,Leer,,,Comet Punch,Leer,,,Braviary,54341,1231,3145
+9,3,1,Kangaskhan (F),Jolly,Scrappy,Luxury Ball,31,31,31,31,19,31,0,0,0,0,0,0,Comet Punch,Leer,,,Comet Punch,Leer,,,Braviary,54341,1231,3867
+9,3,2,Kangaskhan (F),Jolly,Scrappy,Luxury Ball,31,31,06,31,31,31,0,0,0,0,0,0,Comet Punch,Leer,,,Comet Punch,Leer,,,Braviary,54341,1231,0003
+9,3,3,Kangaskhan (F),Jolly,Scrappy,Luxury Ball,09,31,31,31,31,31,0,0,0,0,0,0,Comet Punch,Leer,,,Comet Punch,Leer,,,Braviary,54341,1231,0259
+9,3,4,Kangaskhan (F),Jolly,Scrappy,Luxury Ball,31,31,31,28,27,31,0,0,0,0,0,0,Comet Punch,Leer,,,Comet Punch,Leer,,,Braviary,54341,1231,2094
+9,4,1,Helioptile (F),Modest,Sand Veil,Poke Ball,31,29,31,31,31,31,0,0,0,0,0,0,Pound,Tail Whip,,,Pound,Tail Whip,,,Braviary,54341,1231,0940
+9,4,2,Helioptile (F),Modest,Sand Veil,Poke Ball,31,31,31,30,31,31,0,0,0,0,0,0,Pound,Tail Whip,,,Pound,Tail Whip,,,Braviary,54341,1231,4019
+9,4,3,Helioptile (F),Modest,Sand Veil,Poke Ball,31,21,31,31,31,31,0,0,0,0,0,0,Pound,Tail Whip,,,Pound,Tail Whip,,,Braviary,54341,1231,0868
+9,5,1,Larvitar (M),Jolly,Guts,Luxury Ball,00,31,31,15,31,31,0,0,0,0,0,0,Outrage,Iron Head,Stealth Rock,Pursuit,Outrage,Iron Head,Stealth Rock,Pursuit,Braviary,54341,1231,0308
+9,5,2,Larvitar (F),Jolly,Guts,Luxury Ball,18,31,31,31,31,31,0,0,0,0,0,0,Outrage,Iron Head,Stealth Rock,Pursuit,Outrage,Iron Head,Stealth Rock,Pursuit,Braviary,54341,1231,0257
+9,5,3,Larvitar (M),Jolly,Guts,Luxury Ball,31,15,31,31,31,24,0,0,0,0,0,0,Outrage,Iron Head,Stealth Rock,Pursuit,Outrage,Iron Head,Stealth Rock,Pursuit,Braviary,54341,1231,2229
+9,5,4,Larvitar (F),Jolly,Guts,Luxury Ball,31,15,31,15,31,31,0,0,0,0,0,0,Pursuit,Sandstorm,Screech,Chip Away,Outrage,Iron Head,Stealth Rock,Pursuit,Braviary,54341,1231,4019
+9,5,5,Larvitar (M),Jolly,Guts,Luxury Ball,31,15,31,31,01,31,0,0,0,0,0,0,Outrage,Iron Head,Stealth Rock,Pursuit,Outrage,Iron Head,Stealth Rock,Pursuit,Braviary,54341,1231,1598
+10,1,1,Charmander (M),Jolly,Solar Power,Luxury Ball,31,31,31,31,08,31,0,0,0,0,0,0,Growl,Dragon Pulse,Dragon Dance,Outrage,Growl,Dragon Pulse,Dragon Dance,Outrage,Braviary,54341,1231,2173
+10,1,2,Charmander (M),Jolly,Solar Power,Luxury Ball,31,31,31,31,31,09,0,0,0,0,0,0,Growl,Dragon Pulse,Dragon Dance,Outrage,Growl,Dragon Pulse,Dragon Dance,Outrage,Braviary,54341,1231,1002
+10,1,3,Charmander (M),Jolly,Solar Power,Luxury Ball,29,06,31,31,31,31,0,0,0,0,0,0,Growl,Dragon Pulse,Dragon Dance,Outrage,Growl,Dragon Pulse,Dragon Dance,Outrage,Braviary,54341,1231,3863
+10,1,4,Charmander (M),Jolly,Blaze,Luxury Ball,13,31,31,31,31,31,0,0,0,0,0,0,Growl,Dragon Pulse,Dragon Dance,Outrage,Growl,Dragon Pulse,Dragon Dance,Outrage,Braviary,54341,1231,0140
+10,1,5,Charmander (M),Timid,Solar Power,Luxury Ball,31,31,31,31,13,31,0,0,0,0,0,0,Growl,Outrage,Dragon Pulse,Dragon Dance,Growl,Outrage,Dragon Pulse,Dragon Dance,Braviary,54341,1231,0837
+10,1,6,Charmander (M),Jolly,Blaze,Luxury Ball,31,31,14,31,31,31,0,0,0,0,0,0,Growl,Dragon Pulse,Dragon Dance,Outrage,Growl,Dragon Pulse,Dragon Dance,Outrage,Braviary,54341,1231,1068
+10,2,1,Charmander (M),Timid,Solar Power,Luxury Ball,07,31,31,31,31,31,0,0,0,0,0,0,Growl,Outrage,Dragon Pulse,Dragon Dance,Growl,Outrage,Dragon Pulse,Dragon Dance,Braviary,54341,1231,2893
+10,2,2,Charmander (M),Timid,Solar Power,Luxury Ball,31,31,12,31,31,31,0,0,0,0,0,0,Growl,Outrage,Dragon Pulse,Dragon Dance,Growl,Outrage,Dragon Pulse,Dragon Dance,Braviary,54341,1231,1832
+10,2,3,Charmander (M),Timid,Solar Power,Luxury Ball,31,31,00,31,31,31,0,0,0,0,0,0,Growl,Outrage,Dragon Pulse,Dragon Dance,Growl,Outrage,Dragon Pulse,Dragon Dance,Braviary,54341,1231,1542
+10,2,4,Charmander (F),Timid,Solar Power,Luxury Ball,31,31,31,31,10,31,0,0,0,0,0,0,Growl,Outrage,Dragon Pulse,Dragon Dance,Growl,Outrage,Dragon Pulse,Dragon Dance,Braviary,54341,1231,3661
+17,1,1,Growlithe (M),Hardy,Intimidate,Poke Ball,24,19,24,01,31,31,0,0,0,0,0,0,Heat Wave,Crunch,Flare Blitz,Close Combat,Heat Wave,Crunch,Flare Blitz,Close Combat,Kai,01170,1112,2862
+17,1,2,Growlithe (F),Rash,Flash Fire,Dive Ball,25,31,31,31,29,08,0,0,0,0,0,0,Fire Fang,Take Down,Flame Burst,Agility,,,,,Braviary,54341,1231,2155
+17,1,3,Dratini (F),Jolly,Shed Skin,Poke Ball,31,31,07,31,31,31,0,0,0,0,0,0,Wrap,Leer,Dragon Dance,Extreme Speed,Wrap,Leer,Dragon Dance,Extreme Speed,Luan,51698,3236,0406
+17,1,4,Feebas (M),Timid,Swift Swim,Heal Ball,31,31,31,20,31,31,0,0,0,0,0,0,Mirror Coat,Dragon Pulse,Iron Tail,Dragon Breath,Mirror Coat,Dragon Pulse,Iron Tail,Dragon Breath,Luan,51698,3236,1811
+17,1,5,Frogadier (F),Naughty,Protean,Luxury Ball,31,17,31,31,29,25,0,0,0,0,0,0,Water Pulse,Smokescreen,Round,Fling,,,,,Braviary,54341,1231,0167
+17,1,6,Scyther (M),Adamant,Swarm,Luxury Ball,31,31,31,14,31,31,0,0,0,0,0,0,Wing Attack,Fury Cutter,Slash,Razor Wind,Vacuum Wave,Quick Attack,Leer,Night Slash,Braviary,54341,1231,1185
+17,2,1,Ivysaur (F),Lax,Chlorophyll,Luxury Ball,00,08,00,31,31,17,0,0,2,1,2,9,Take Down,Razor Leaf,Sweet Scent,Growth,,,,,Braviary,54341,1231,1592
+17,2,2,Wartortle (F),Quiet,Rain Dish,Luxury Ball,31,10,06,21,18,31,0,0,0,0,0,0,Bite,Rapid Spin,Protect,Water Pulse,,,,,Braviary,54341,1231,2440
+17,2,3,Togetic (M),Docile,Serene Grace,Poke Ball,11,09,20,19,29,05,15,10,9,4,7,3,Wish,Baton Pass,Ancient Power,Sweet Kiss,Growl,Charm,,,Madolche,58365,0852,0142
+17,2,4,Azumarill (F),Hasty,Huge Power,Luxury Ball,31,28,24,15,31,31,0,0,0,0,0,0,Bubble Beam,Helping Hand,Aqua Tail,Double-Edge,,,,,Braviary,54341,1231,1288
+17,2,5,Dragonair (F),Timid,Marvel Scale,Luxury Ball,29,31,31,13,03,31,6,10,0,0,0,2,Twister,Dragon Rage,Slam,Agility,,,,,Braviary,54341,1231,3772
+17,2,6,Fraxure (F),Bold,Rivalry,Luxury Ball,31,31,26,06,06,31,0,0,2,3,3,10,Scary Face,Slash,False Swipe,Dragon Claw,,,,,Braviary,54341,1231,0286
+17,3,1,Eevee (M),Careful,Adaptability,Moon Ball,31,31,16,23,31,31,0,0,0,0,0,0,Wish,Curse,Yawn,Sand Attack,Tail Whip,Wish,Curse,Yawn,Jessica,39007,1964,2963
+17,3,2,Froakie (F),Timid,Protean,Dive Ball,31,31,31,23,31,31,0,0,0,0,0,0,Pound,Growl,,,Pound,Growl,,,Braviary,54341,1231,1231
+17,3,3,Marill (F),Adamant,Huge Power,Fast Ball,28,31,31,05,23,31,0,0,0,0,0,0,Superpower,Belly Drum,Body Slam,Aqua Jet,Superpower,Belly Drum,Body Slam,Aqua Jet,Sky,50393,1733,2846
+17,3,4,Fletchinder (F),Hardy,Gale Wings,Luxury Ball,30,31,20,31,07,10,0,0,0,0,0,0,Flail,Ember,Roost,Razor Wind,,,,,Braviary,54341,1231,3476
+17,3,5,Gyarados (F),Bold,Moxie,Luxury Ball,31,22,30,31,08,25,0,0,0,0,0,0,Bite,Dragon Rage,Leer,Twister,,,,,Braviary,54341,1231,3441
+17,3,6,Totodile (M),Naive,Torrent,Poke Ball,12,24,31,31,10,31,0,0,0,0,0,0,Crunch,Hydro Pump,Aqua Jet,Ice Punch,Crunch,Hydro Pump,Aqua Jet,Ice Punch,Sky,50393,1733,2292
+17,4,1,Wartortle (F),Jolly,Rain Dish,Dive Ball,31,31,21,29,28,27,0,6,0,0,0,6,Bite,Rapid Spin,Protect,Water Pulse,,,,,Braviary,54341,1231,3208
+17,4,2,Porygon,Modest,Trace,Poke Ball,31,31,31,31,24,31,0,0,0,0,0,0,Conversion 2,Tackle,Conversion,Sharpen,Conversion 2,Tackle,Conversion,Sharpen,Lili,51978,3534,0785
+17,4,3,Misdreavus (F),Modest,Levitate,Moon Ball,31,04,02,31,31,31,13,5,3,3,3,2,Pain Split,Nasty Plot,Destiny Bond,Perish Song,Spite,Nasty Plot,Destiny Bond,Skill Swap,Eman,58390,3201,2522
+17,4,4,Togepi (M),Modest,Serene Grace,Premier Ball,31,31,31,31,27,31,0,0,0,0,0,0,Extrasensory,Psycho Shift,Mirror Move,Nasty Plot,Extrasensory,Psycho Shift,Mirror Move,Nasty Plot,Karl,21780,4022,3999
+17,4,5,Mudkip (M),Naughty,Damp,Poke Ball,31,31,31,07,19,31,0,0,0,0,0,0,Tackle,Growl,Mud Bomb,Ice Ball,Tackle,Growl,Mud Bomb,Ice Ball,Paul,19486,1717,1825
+17,4,6,Mawile (F),Adamant,Intimidate,Poke Ball,31,31,14,22,31,15,0,0,0,0,0,0,Astonish,Fire Fang,Ice Fang,Thunder Fang,Astonish,Fire Fang,Ice Fang,Thunder Fang,Dave,47124,1029,2057
+17,5,1,Cyndaquil (M),Timid,Blaze,Luxury Ball,31,17,31,31,31,31,0,0,0,0,0,0,Extrasensory,Crush Claw,Flame Burst,Flare Blitz,Extrasensory,Crush Claw,Flame Burst,Flare Blitz,Evan,27494,3404,3559
+17,5,2,Luxio (F),Bashful,Intimidate,Dive Ball,31,20,31,31,02,06,0,0,0,0,0,0,Spark,Bite,Roar,Swagger,,,,,Braviary,54341,1231,3799
+17,5,3,Misdreavus (F),Timid,Levitate,Moon Ball,31,03,02,13,31,31,0,0,0,0,0,0,Growl,Psywave,Nasty Plot,Spite,Growl,Psywave,Nasty Plot,Spite,Dave,47124,1029,3963
+18,1,1,Growlithe (F),Timid,Justified,Luxury Ball,31,31,18,31,16,30,0,0,0,0,0,0,Fire Fang,Take Down,Flame Burst,Agility,,,,,Braviary,54341,1231,2406
+18,1,2,Growlithe (M),Lax,Justified,Dive Ball,31,07,06,05,05,31,0,0,0,0,0,0,Fire Fang,Take Down,Flame Burst,Agility,,,,,Braviary,54341,1231,2501
+18,1,3,Growlithe (F),Serious,Flash Fire,Luxury Ball,31,01,00,31,05,15,0,0,0,0,0,0,Fire Fang,Take Down,Flame Burst,Agility,,,,,Braviary,54341,1231,0023
+18,1,4,Luxio (F),Docile,Intimidate,Luxury Ball,14,08,17,31,31,14,0,0,0,0,0,0,Spark,Bite,Roar,Swagger,,,,,Braviary,54341,1231,2185
+18,1,5,Chikorita (M),Timid,Overgrow,Poke Ball,05,05,14,03,27,24,0,0,0,0,0,0,Tackle,Growl,,,,,,,みぃ,26466,0231,1526
+18,1,6,Buneary (F),Jolly,Klutz,Love Ball,11,31,31,03,31,31,0,0,0,0,0,0,Ice Punch,Switcheroo,Thunder Punch,Fire Punch,Ice Punch,Switcheroo,Thunder Punch,Fire Punch,Arturo,27747,3903,0859
+18,2,1,Gastly (F),Timid,Levitate,Moon Ball,31,16,00,31,31,31,0,0,0,0,0,0,Hypnosis,Lick,Perish Song,Clear Smog,Hypnosis,Lick,Perish Song,Clear Smog,Ryoma,28358,0861,1140
+18,2,2,Gastly (M),Timid,Levitate,Moon Ball,24,31,31,31,31,31,0,0,0,0,0,0,Hypnosis,Lick,Perish Song,Clear Smog,Hypnosis,Lick,Perish Song,Clear Smog,Ryoma,28358,0861,2799
+18,2,3,Luvdisc (F),Rash,Swift Swim,Poke Ball,17,15,19,08,12,31,0,0,0,0,0,0,Charm,Water Gun,Agility,Take Down,,,,,Nadia,25982,0473,1863
+18,2,4,Mienfoo (F),Docile,Inner Focus,Poke Ball,15,08,21,12,26,24,0,0,0,0,0,0,Pound,Meditate,Detect,Fake Out,,,,,Nearl,34407,4040,2693
+18,2,5,Dragalge (F),Adamant,Poison Point,Ultra Ball,23,14,03,29,24,10,0,0,0,0,0,0,Water Pulse,Double Team,Toxic,Aqua Tail,,,,,Oscar,30125,2310,0640
+18,2,6,Croagunk (F),Adamant,Dry Skin,Dive Ball,31,11,31,06,31,10,0,0,0,0,0,0,Astonish,,,,Astonish,,,,Braviary,54341,1231,1284
+18,3,1,Sylveon (M),Timid,Pixilate,Poke Ball,18,31,24,26,22,29,0,2,1,0,0,4,Dazzling Gleam,Yawn,Fairy Wind,Charm,Tail Whip,Yawn,Covet,Charm,イザベラ,45421,2716,0726
+18,3,2,Vivillon (M),Timid,Shield Dust,Cherish Ball,13,12,29,04,12,27,0,0,0,0,0,0,Gust,Light Screen,Struggle Bug,'-607-,'-607-,,,,GTS,00108,0091,0413
+18,3,3,Cyndaquil (M),Adamant,Blaze,Poke Ball,00,08,14,23,31,01,0,0,0,0,0,0,Tackle,Leer,Quick Attack,,Tackle,Leer,Quick Attack,,hellken,31387,3140,3109
+18,3,4,Feraligatr (M),Jolly,Torrent,Poke Ball,31,08,31,31,31,01,89,55,55,41,39,30,Aqua Tail,Superpower,Aqua Jet,Ice Punch,Scratch,Leer,Aqua Jet,Ice Punch,Marielle,50452,1178,0259
+18,3,5,Bunnelby (M),Bashful,Pickup,Quick Ball,31,13,16,30,04,22,0,0,0,0,0,0,Tackle,Agility,Leer,Quick Attack,,,,,Jedhai,44225,2613,0524
+18,3,6,Treecko (M),Timid,Overgrow,Poke Ball,17,31,05,08,25,04,0,0,0,0,0,0,Pound,Leer,Leaf Storm,,Pound,Leer,Leaf Storm,,Braviary,54341,1231,2087
+18,4,1,Mudkip (M),Adamant,Torrent,Poke Ball,31,18,31,25,31,06,0,0,0,0,0,0,Whirlpool,Mirror Coat,Counter,Avalanche,Whirlpool,Mirror Coat,Counter,Avalanche,Joe,22626,0144,3991
+18,4,2,Turtwig (M),Adamant,Overgrow,Poke Ball,13,31,04,31,14,11,0,0,0,0,0,0,Tackle,Absorb,Razor Leaf,Withdraw,Tackle,Absorb,Razor Leaf,,Keanaaina,12084,2044,0018
+18,4,3,Froakie (M),Timid,Protean,Dusk Ball,31,31,30,21,14,31,0,0,0,0,0,0,Pound,Growl,,,Pound,Growl,,,Carlos,42337,2955,0685
+18,4,4,Chimchar (M),Hasty,Blaze,Poke Ball,11,15,08,03,31,04,0,0,0,0,0,0,Scratch,Leer,Thunder Punch,Fire Punch,Scratch,Leer,Thunder Punch,Fire Punch,Aritz,30790,1469,3171
+18,4,5,Piplup (M),Modest,Torrent,Poke Ball,12,24,12,31,31,31,0,0,0,0,0,0,Pound,Hydro Pump,Bide,,Pound,Hydro Pump,Bide,,HM,50674,0301,0974
+18,4,6,Snivy (M),Quirky,Overgrow,Poke Ball,21,12,26,26,27,23,0,0,0,0,0,0,Tackle,,,,Tackle,,,,Carlos,03849,2906,1546
+18,5,1,Tepig (M),Serious,Blaze,Poke Ball,14,14,14,14,27,05,0,0,0,0,0,0,Tackle,,,,Tackle,,,,Jano,23298,0449,1224
+18,5,2,Oshawott (M),Docile,Torrent,Poke Ball,31,11,25,00,02,31,168,73,52,24,20,72,Hydro Pump,Surf,Ice Beam,Aqua Tail,,,,,タケル★,22517,2308,2655
+18,5,3,Chimchar (M),Naive,Iron Fist,Poke Ball,31,31,13,31,31,31,0,0,0,0,0,0,Facade,Fire Spin,Fire Punch,Thunder Punch,Scratch,Leer,Thunder Punch,Fire Punch,クェルクス,49384,3292,1332
+18,5,4,Bulbasaur (M),Timid,Overgrow,Poke Ball,31,13,31,31,31,31,0,0,2,0,0,0,Sleep Powder,Razor Leaf,Sweet Scent,Growth,Tackle,,,,Braviary,54341,1231,2020
+18,5,5,Treecko (F),Lax,Overgrow,Poke Ball,17,31,31,07,04,04,0,0,0,0,0,0,Leer,Leaf Storm,Absorb,Quick Attack,Pound,Leer,Leaf Storm,,JuIiO,04482,0253,2608
+18,5,6,Grovyle (M),Timid,Overgrow,Poke Ball,05,31,31,07,11,12,6,0,0,0,0,0,Pursuit,Leer,Leaf Storm,Absorb,Pound,Leer,Leaf Storm,,Braviary,54341,1231,1169
+24,1,1,Charmander (M),Jolly,Blaze,Luxury Ball,16,06,31,31,31,31,0,0,0,0,0,0,Growl,Dragon Pulse,Dragon Dance,Outrage,Growl,Dragon Pulse,Dragon Dance,Outrage,Braviary,54341,1231,2992
+24,1,2,Charmander (M),Timid,Blaze,Luxury Ball,31,06,31,31,08,31,0,0,0,0,0,0,Growl,Outrage,Dragon Pulse,Dragon Dance,Growl,Outrage,Dragon Pulse,Dragon Dance,Braviary,54341,1231,0855
+24,1,3,Charmander (M),Timid,Blaze,Luxury Ball,31,06,31,24,31,31,0,0,0,0,0,0,Growl,Outrage,Dragon Pulse,Dragon Dance,Growl,Outrage,Dragon Pulse,Dragon Dance,Braviary,54341,1231,3644
+24,1,4,Charmander (M),Jolly,Solar Power,Luxury Ball,31,06,31,19,31,31,0,0,0,0,0,0,Growl,Dragon Pulse,Dragon Dance,Outrage,Growl,Dragon Pulse,Dragon Dance,Outrage,Braviary,54341,1231,2438
+25,1,1,Charmeleon (F),Modest,Solar Power,Luxury Ball,31,06,31,31,31,31,0,0,0,252,6,252,Flame Burst,Dragon Pulse,Dragon Dance,Outrage,Growl,Outrage,Dragon Pulse,Dragon Dance,Braviary,54341,1231,0967
+25,1,2,Charizard (M),Modest,Solar Power,Luxury Ball,31,20,31,31,31,31,0,0,0,252,6,252,Dragon Pulse,Dragon Dance,Outrage,Flamethrower,Growl,Dragon Pulse,Dragon Dance,Outrage,Braviary,54341,1231,3398
+25,1,3,Charmeleon (M),Jolly,Solar Power,Luxury Ball,31,31,31,26,31,31,6,252,0,0,0,252,Outrage,Dragon Dance,Ember,Smokescreen,Scratch,Growl,Outrage,Dragon Dance,Braviary,54341,1231,1618
+25,1,4,Charmeleon (M),Modest,Solar Power,Luxury Ball,31,11,31,31,31,31,40,130,0,0,0,252,Dragon Pulse,Dragon Dance,Outrage,Ember,Growl,Dragon Pulse,Dragon Dance,Outrage,Braviary,54341,1231,1376
+25,1,5,Volcarona (M),Modest,Flame Body,Poke Ball,31,31,31,31,21,31,6,0,0,252,0,252,Hurricane,Heat Wave,Quiver Dance,Bug Buzz,Ember,String Shot,,,Braviary,54341,1231,1701
+25,1,6,Blaziken (M),Jolly,Speed Boost,Poke Ball,31,31,31,09,31,31,6,252,0,0,0,252,Protect,Power-Up Punch,Flare Blitz,Brave Bird,Scratch,Growl,,,Fivelions,48020,0771,1698
+25,2,1,Chimchar (F),Jolly,Iron Fist,Poke Ball,31,31,31,31,31,31,0,0,0,0,0,0,Leer,Fake Out,Fire Punch,Thunder Punch,Leer,Fake Out,Fire Punch,Thunder Punch,Braviary,54341,1231,1013
+25,2,2,Medicham (F),Jolly,Pure Power,Luxury Ball,31,31,31,25,31,31,6,252,0,0,0,252,Bullet Punch,Rock Slide,High Jump Kick,Fire Punch,Bullet Punch,Ice Punch,Fake Out,Fire Punch,Braviary,54341,1231,0470
+25,2,3,Politoed (F),Bold,Drizzle,Quick Ball,31,04,31,31,31,07,252,0,252,0,6,0,Toxic,Ice Beam,Encore,Scald,Bubble Beam,Mud Shot,Encore,Ice Ball,Braviary,54341,1231,0899
+25,2,4,Electrike (F),Modest,Static,Great Ball,31,23,31,31,31,31,0,0,0,0,0,0,Tackle,Ice Fang,Discharge,Thunder Fang,Tackle,Ice Fang,Discharge,Thunder Fang,Bartus,20685,0138,2015
+25,2,5,Shelgon (F),Adamant,Overcoat,Ultra Ball,31,31,31,31,31,31,4,252,0,0,0,250,Focus Energy,Ember,Dragon Breath,Zen Headbutt,Rage,Dragon Dance,Twister,Dragon Rage,Emily,27026,3503,0426
+25,2,6,Excadrill (F),Adamant,Sand Rush,Poke Ball,31,31,31,29,31,31,6,252,0,0,0,252,Rock Slide,Earthquake,Metal Claw,Rapid Spin,Scratch,Mud Sport,Rapid Spin,,Emily,27026,3503,0606
+25,3,1,Pinsir (F),Adamant,Moxie,Luxury Ball,31,31,31,22,31,31,12,24,11,7,15,4,Thrash,Swords Dance,Quick Attack,Return,Vice Grip,Focus Energy,Quick Attack,,Braviary,54341,1231,0997
+25,3,2,Froakie (M),Modest,Protean,Luxury Ball,31,00,31,28,31,31,0,0,0,0,0,0,Pound,Growl,,,Pound,Growl,,,Braviary,54341,1231,0951
+25,3,3,Heliolisk (M),Modest,Dry Skin,Poke Ball,31,27,31,31,31,31,6,0,0,252,0,252,Grass Knot,Thunder,Volt Switch,Surf,Pound,Tail Whip,,,Braviary,54341,1231,1992
+25,3,4,Omastar (M),Modest,Swift Swim,Poke Ball,31,30,31,30,30,31,6,0,0,252,0,252,Shell Smash,Ice Beam,Hydro Pump,Surf,Constrict,Withdraw,,,Braviary,54341,1231,1626
+25,3,5,Kingdra (F),Modest,Swift Swim,Dive Ball,31,31,28,31,31,31,40,0,0,240,0,230,Hydro Pump,Draco Meteor,Rain Dance,Ice Beam,Water Gun,,,,Braviary,54341,1231,1684
+25,3,6,Phione,Quiet,Hydration,Poke Ball,21,19,16,29,27,14,0,0,0,0,0,0,Bubble,Water Sport,,,Bubble,Water Sport,,,Lia,00804,2383,3400
+25,4,1,Tyranitar (M),Jolly,Sand Stream,Luxury Ball,31,31,31,22,31,31,6,252,0,0,0,252,Earthquake,Rock Slide,Stealth Rock,Pursuit,Outrage,Iron Head,Stealth Rock,Pursuit,Braviary,54341,1231,0689
+25,4,2,Gabite (M),Jolly,Sand Veil,Luxury Ball,31,31,31,31,31,31,6,252,0,0,0,252,Sandstorm,Earthquake,Outrage,Iron Head,Tackle,Dig,Outrage,Iron Head,Fivelions,48020,0771,2447
+25,4,3,Torchic (M),Jolly,Speed Boost,Poke Ball,31,31,31,31,31,31,6,252,0,0,0,252,Focus Energy,Ember,Peck,Sand Attack,Scratch,Growl,,,Fivelions,48020,0771,1295
+25,4,4,Scizor (F),Adamant,Technician,Luxury Ball,31,31,31,12,31,31,6,252,0,0,0,252,Pursuit,U-turn,Swords Dance,Bullet Punch,Vacuum Wave,Quick Attack,Leer,Night Slash,Braviary,54341,1231,3036
+25,4,5,Smeargle (F),Jolly,Own Tempo,Premier Ball,31,31,31,31,31,31,0,0,0,0,0,0,Sketch,,,,Sketch,,,,Chris,08939,3900,0674
+25,4,6,Aegislash (M),Quiet,Stance Change,Luxury Ball,31,31,31,31,31,06,246,0,12,252,0,0,King's Shield,Flash Cannon,Shadow Sneak,Shadow Ball,Tackle,Swords Dance,Fury Cutter,Metal Sound,Braviary,54341,1231,3417
+25,5,1,Eevee (F),Calm,Adaptability,Luxury Ball,31,13,31,31,31,31,252,0,0,0,0,0,Quick Attack,Curse,Yawn,Wish,Tail Whip,Curse,Yawn,Wish,Zeedary,64370,3480,0943
+25,5,2,Scyther (F),Jolly,Technician,Poke Ball,31,31,31,19,31,31,0,0,0,0,0,0,Vacuum Wave,Quick Attack,Leer,Defog,Vacuum Wave,Quick Attack,Leer,Defog,Dusk,02409,3952,1988
+25,5,3,Squirtle (M),Modest,Rain Dish,Poke Ball,31,02,31,31,31,31,0,0,0,0,0,0,Tackle,Water Spout,Dragon Pulse,Aura Sphere,Tackle,Water Spout,Dragon Pulse,Aura Sphere,Yukio,10011,1539,0929
+25,5,4,Chinchou (F),Modest,Volt Absorb,Net Ball,31,31,31,18,31,31,0,0,0,0,0,0,Water Gun,Supersonic,Soak,,Water Gun,Supersonic,Soak,,Bartus,20685,0138,3938
+25,5,5,Lucario (M),Jolly,Justified,Luxury Ball,31,31,31,15,31,31,8,252,0,0,0,250,Extreme Speed,Close Combat,Power-Up Punch,Swords Dance,Quick Attack,Endure,Crunch,Agility,Fivelions,48020,0771,1041
+25,5,6,Castform (F),Modest,Forecast,Poke Ball,31,31,31,31,31,31,0,0,0,0,0,0,Tackle,,,,Tackle,,,,Kevin,11315,3809,2275
+26,1,1,Raikou,Timid,Pressure,Ultra Ball,31,09,31,31,31,31,0,0,0,0,0,0,Reflect,Spark,Quick Attack,Roar,,,,,WILL,39456,3653,1000
+26,1,2,Heracross (F),Adamant,Moxie,Luxury Ball,31,31,31,22,31,31,0,0,0,0,0,0,Fury Attack,Aerial Ace,Chip Away,Counter,Leer,Horn Attack,Endure,Rock Blast,Braviary,54341,1231,0624
+26,1,3,Froakie (F),Modest,Protean,Poke Ball,31,10,31,31,31,31,0,0,0,0,0,0,Pound,Growl,,,Pound,Growl,,,Braviary,54341,1231,3583
+26,1,4,Froakie (M),Timid,Protean,Dive Ball,31,28,31,31,31,31,0,0,0,0,0,0,Pound,Growl,,,Pound,Growl,,,Braviary,54341,1231,2801
+26,1,5,Tyrunt (M),Adamant,Strong Jaw,Poke Ball,31,31,31,04,31,31,0,0,0,0,0,0,Tail Whip,Tackle,Ice Fang,,Tail Whip,Tackle,Ice Fang,,Braviary,54341,1231,1164
+26,1,6,Tyrunt (M),Adamant,Strong Jaw,Poke Ball,31,29,31,31,31,31,0,0,0,0,0,0,Tail Whip,Tackle,Ice Fang,,Tail Whip,Tackle,Ice Fang,,Braviary,54341,1231,2815
+26,2,1,Heracross (F),Adamant,Moxie,Luxury Ball,31,31,31,19,31,31,252,252,6,0,0,0,Close Combat,Earthquake,Pin Missile,Rock Blast,Leer,Horn Attack,Endure,Rock Blast,Braviary,54341,1231,0927
+26,2,2,Honedge (M),Quiet,No Guard,Poke Ball,31,31,31,31,31,28,0,0,0,0,0,0,Tackle,Swords Dance,Shadow Sneak,Metal Sound,Tackle,Swords Dance,Shadow Sneak,Metal Sound,Braviary,54341,1231,0202
+26,2,3,Tyrantrum (M),Adamant,Strong Jaw,Poke Ball,31,31,31,07,31,31,6,252,0,0,0,252,Ice Fang,Rock Polish,Earthquake,Head Smash,Tail Whip,Tackle,Dragon Dance,Ice Fang,Braviary,54341,1231,0669
+26,2,4,Kangaskhan (F),Jolly,Scrappy,Luxury Ball,31,31,31,28,31,31,6,252,0,0,0,252,Return,Power-Up Punch,Fake Out,Earthquake,Comet Punch,Leer,,,Braviary,54341,1231,0501
+26,2,5,Kangaskhan (F),Jolly,Scrappy,Luxury Ball,31,31,31,09,31,31,0,0,0,0,0,0,Comet Punch,Leer,,,Comet Punch,Leer,,,Braviary,54341,1231,1468
+26,2,6,Heracross (M),Adamant,Moxie,Luxury Ball,31,31,31,22,31,31,0,0,0,0,0,0,Leer,Horn Attack,Endure,Rock Blast,Leer,Horn Attack,Endure,Rock Blast,Braviary,54341,1231,0717
+26,3,1,Kangaskhan (F),Jolly,Scrappy,Luxury Ball,31,31,31,15,31,31,0,0,0,0,0,0,Comet Punch,Leer,,,Comet Punch,Leer,,,Braviary,54341,1231,3196
+26,3,2,Eevee (M),Calm,Adaptability,Luxury Ball,31,13,29,31,31,31,0,0,0,0,0,0,Tail Whip,Curse,Yawn,Wish,Tail Whip,Curse,Yawn,Wish,Braviary,54341,1231,3914
+26,3,3,Charmander (M),Jolly,Solar Power,Luxury Ball,31,31,31,19,31,31,0,0,0,0,0,0,Growl,Dragon Pulse,Dragon Dance,Outrage,Growl,Dragon Pulse,Dragon Dance,Outrage,Braviary,54341,1231,1935
+26,3,4,Charmander (M),Timid,Blaze,Luxury Ball,31,07,31,31,31,31,0,0,0,0,0,0,Growl,Outrage,Dragon Pulse,Dragon Dance,Growl,Outrage,Dragon Pulse,Dragon Dance,Braviary,54341,1231,3184
+26,3,5,Charmander (M),Modest,Blaze,Poke Ball,31,12,31,31,31,31,0,0,0,0,0,0,Scratch,Growl,Dragon Dance,Dragon Pulse,Scratch,Growl,Dragon Dance,Dragon Pulse,Nico,25466,3896,1330
+28,1,1,Latios (M),Timid,Levitate,Poke Ball,31,31,31,31,31,31,0,0,0,252,6,252,Luster Purge,Psychic,Recover,Dragon Dance,,,,,Nana,54767,0573,0573
+28,1,2,Honedge (M),Hasty,No Guard,Luxury Ball,31,31,31,31,31,31,0,0,0,0,0,252,Tackle,Swords Dance,Shadow Sneak,Metal Sound,Tackle,Swords Dance,Shadow Sneak,Metal Sound,Ventusy,58114,2474,2474
+28,1,3,Honedge (M),Quiet,No Guard,Poke Ball,31,31,31,31,31,14,0,0,0,0,0,0,Tackle,Swords Dance,Shadow Sneak,Metal Sound,Tackle,Swords Dance,Shadow Sneak,Metal Sound,Raeiary,40401,3040,3040
+28,1,4,Virizion,Timid,Justified,Poke Ball,31,30,30,31,31,31,6,0,0,252,0,252,Calm Mind,Giga Drain,Focus Blast,Hidden Power,,,,,Nana,54767,0573,0573
+28,1,5,Charmander (M),Jolly,Solar Power,Luxury Ball,31,31,31,05,31,31,0,0,0,0,0,0,Growl,Dragon Pulse,Dragon Dance,Outrage,Growl,Dragon Pulse,Dragon Dance,Outrage,Braviary,54341,1231,1231
+28,1,6,Squirtle (M),Bold,Torrent,Dive Ball,31,08,31,31,31,31,0,0,0,0,0,0,Dragon Pulse,Aura Sphere,Mirror Coat,Aqua Ring,Dragon Pulse,Aura Sphere,Mirror Coat,Aqua Ring,Shiharu,21688,1013,1013
+28,2,1,Sylveon (M),Calm,Pixilate,Poke Ball,31,30,31,31,31,31,252,2,4,0,252,0,Hyper Voice,Wish,Heal Bell,Protect,,,,,Wildcat,37297,3191,3191
+28,2,2,Latias (F),Timid,Levitate,Poke Ball,31,31,31,31,31,31,6,0,0,252,0,252,Mist Ball,Psychic,Recover,Charm,,,,,Nana,54767,0573,0573
+28,2,3,Kangaskhan (F),Jolly,Scrappy,Luxury Ball,31,31,31,24,31,31,0,200,0,0,0,252,Comet Punch,Leer,Fake Out,Tail Whip,Comet Punch,Leer,,,Javiery,19792,1165,1165
+28,2,4,Kangaskhan (F),Jolly,Scrappy,Luxury Ball,31,31,29,31,31,31,0,0,0,0,0,0,Comet Punch,Leer,,,Comet Punch,Leer,,,Vyralry,29873,0241,0241
+28,2,5,Charizard (M),Jolly,Blaze,Poke Ball,21,30,19,06,23,25,31,57,9,32,7,53,Flame Burst,Fire Fang,Wing Attack,Dragon Rage,,,,,Bryson,10424,2973,2973
+28,2,6,Koffing (M),Bold,Levitate,Poke Ball,31,31,05,31,31,30,4,0,0,0,0,0,Poison Gas,Clear Smog,Destiny Bond,Pain Split,Poison Gas,Tackle,Destiny Bond,Pain Split,Braviary,54341,1231,1231
+28,3,1,Talonflame (M),Adamant,Gale Wings,Dive Ball,31,31,31,02,31,31,6,252,0,0,0,252,Acrobatics,Brave Bird,Tailwind,Roost,Tackle,Growl,,,Ivoryry,23443,3328,3328
+28,3,2,Tyrantrum (F),Adamant,Strong Jaw,Poke Ball,31,31,31,31,29,31,6,252,0,0,0,252,Rock Polish,Head Smash,Earthquake,Ice Fang,Tail Whip,Tackle,Dragon Dance,Ice Fang,Zachary,50712,0246,0246
+28,3,3,Latios (M),Timid,Levitate,Poke Ball,31,31,31,31,31,31,0,0,0,252,6,252,Luster Purge,Psychic,Recover,Dragon Dance,,,,,Nana,54767,0573,0573
+28,3,4,Honedge (M),Quiet,No Guard,Luxury Ball,31,31,31,31,31,28,0,0,0,0,0,0,Tackle,Swords Dance,Shadow Sneak,,Tackle,Swords Dance,Shadow Sneak,,Deniary,13215,3377,3377
+28,3,5,Genesect,Hasty,Download,Cherish Ball,31,31,31,31,31,31,0,0,0,0,0,0,Extreme Speed,Iron Head,Blaze Kick,Shift Gear,,,,,えいがかん,07133,0445,0445
+28,3,6,Aegislash (M),Quiet,Stance Change,Poke Ball,31,31,31,31,31,11,250,8,0,252,0,0,Flash Cannon,King's Shield,Shadow Sneak,Shadow Ball,Tackle,Swords Dance,Shadow Sneak,Metal Sound,Retneprac,31825,1305,1305
+28,4,1,Cresselia (F),Calm,Levitate,Poke Ball,31,30,31,31,31,31,252,0,4,0,252,0,Moonlight,Toxic,Ice Beam,Lunar Dance,,,,,Wildcat,37297,3191,3191
+28,4,2,Sylveon (F),Bold,Cute Charm,Poke Ball,31,31,31,31,31,31,252,0,0,3,250,5,Wish,Heal Bell,Light Screen,Moonblast,,,,,Miuna,54452,2108,2108
+28,4,3,Landorus (M),Jolly,Sand Force,Poke Ball,31,31,31,30,31,31,0,252,4,0,0,252,Stealth Rock,Earthquake,Stone Edge,U-turn,,,,,Wildcat,37297,3191,3191
+28,4,4,Rayquaza,Jolly,Air Lock,Poke Ball,31,31,31,31,31,31,0,252,6,0,0,252,Draco Meteor,Outrage,Extreme Speed,Earthquake,,,,,Nana,54767,0573,0573
+28,4,5,Charmander (M),Timid,Solar Power,Luxury Ball,31,16,31,31,31,31,0,0,0,0,0,0,Growl,Outrage,Dragon Pulse,Dragon Dance,Growl,Outrage,Dragon Pulse,Dragon Dance,Teresay,45223,1969,1969
+28,4,6,Abra (M),Naughty,Inner Focus,Quick Ball,31,31,10,11,19,00,0,0,0,0,0,0,Teleport,,,,,,,,Chris,08939,3900,3900
+30,1,1,Clefairy (F),Naive,Cute Charm,Luxury Ball,31,21,05,25,31,24,0,4,0,8,0,4,Bestow,Wake-Up Slap,Minimize,Stored Power,,,,,Braviary,54341,1231,3122
+30,1,2,Durant (F),Gentle,Truant,Luxury Ball,11,17,11,03,12,06,252,4,0,1,1,252,Entrainment,X-Scissor,Crunch,Iron Head,,,,,Braviary,54341,1231,3781
+30,1,3,Charizard (M),Modest,Blaze,Poke Ball,31,31,31,31,31,16,6,0,0,252,0,252,Heat Wave,Dragon Pulse,Flamethrower,Fire Blast,Growl,Dragon Pulse,Dragon Dance,Outrage,Braviary,54341,1231,1623
+30,1,4,Emboar (F),Hardy,Blaze,Poke Ball,07,00,13,05,23,31,52,153,60,69,73,103,Assurance,Heat Crash,Flare Blitz,Head Smash,Tackle,,,,Nick,35770,1794,2853
+30,1,5,Aegislash (M),Mild,Stance Change,Great Ball,27,30,12,06,03,07,42,129,90,80,45,124,Night Slash,Swords Dance,False Swipe,Shadow Claw,,,,,Nate,46803,0735,2400
+30,1,6,Fletchinder (F),Quirky,Flame Body,Dive Ball,31,31,24,12,16,21,0,0,0,0,0,0,Flail,Ember,Roost,Razor Wind,,,,,Braviary,54341,1231,2591
+30,2,1,Liepard (F),Sassy,Prankster,Luxury Ball,13,31,05,29,00,31,160,89,68,68,54,42,Taunt,Thunder Wave,Encore,Embargo,Scratch,Encore,,,Braviary,54341,1231,3735
+30,2,2,Talonflame (M),Naive,Flame Body,Poke Ball,24,15,26,00,16,03,191,103,74,40,29,73,Roost,Brave Bird,Fly,Tailwind,,,,,Joshua,46537,0680,1752
+30,2,3,Gyarados (M),Jolly,Intimidate,Luxury Ball,31,31,31,26,31,31,88,250,4,0,0,168,Protect,Dragon Dance,Ice Fang,Waterfall,Splash,,,,Braviary,54341,1231,4029
+30,2,4,Greninja (M),Calm,Torrent,Poke Ball,13,09,24,31,11,14,57,118,75,59,42,159,Role Play,Surf,Waterfall,Cut,,,,,정민승,48899,1344,1655
+30,2,5,Gardevoir (F),Lax,Trace,Luxury Ball,16,15,31,31,02,25,164,94,78,74,54,46,Teleport,Thunder Wave,Psychic,Heal Pulse,,,,,Braviary,54341,1231,0728
+30,2,6,Vivillon (M),Jolly,Compound Eyes,Quick Ball,29,17,16,25,20,03,4,1,0,0,0,0,Tackle,String Shot,Stun Spore,Protect,,,,,Braviary,54341,1231,0592
+30,3,1,Bibarel (M),Calm,Moody,Ultra Ball,10,31,06,16,31,31,46,38,48,45,31,64,Surf,Headbutt,Hyper Fang,Waterfall,,,,,Braviary,54341,1231,3918
+30,3,2,Venusaur (M),Timid,Chlorophyll,Quick Ball,23,05,31,31,31,31,118,210,6,4,7,165,Petal Blizzard,Earthquake,Sludge Bomb,Sweet Scent,Tackle,Razor Leaf,,,Braviary,54341,1231,4071
+30,3,3,Dugtrio (M),Bashful,Arena Trap,Great Ball,10,17,14,09,20,30,0,0,0,4,0,0,Magnitude,Bulldoze,Sucker Punch,Sand Tomb,,,,,Fivelions,48020,0771,0551
+30,3,4,Noivern (M),Hardy,Frisk,Dusk Ball,31,18,18,31,05,23,127,104,77,59,60,83,Thief,Fly,Boomburst,Aerial Ace,,,,,Braviary,54341,1231,0620
+30,3,5,Bibarel (M),Timid,Simple,Ultra Ball,14,31,24,06,25,31,145,151,47,56,35,63,Cut,Surf,Rock Smash,Strength,,,,,Braviary,54341,1231,0601
+30,3,6,Dwebble (F),Calm,Sturdy,Luxury Ball,16,03,31,03,16,31,0,0,1,0,0,0,Rock Polish,Bug Bite,Stealth Rock,Rock Slide,,,,,Braviary,54341,1231,0764
+30,4,1,Eevee (F),Calm,Adaptability,Luxury Ball,07,31,04,22,08,31,6,0,0,0,0,0,Sand Attack,Curse,Yawn,Wish,Swift,Wish,Yawn,Curse,Braviary,54341,1231,3443
+30,4,2,Clefairy (M),Mild,Cute Charm,Luxury Ball,31,28,24,31,03,12,90,116,10,10,6,42,Bestow,Wake-Up Slap,Minimize,Stored Power,,,,,Braviary,54341,1231,3344
+30,4,3,Dedenne (M),Bashful,Pickup,Luxury Ball,06,31,22,07,31,29,164,130,34,81,37,64,Protect,Thunder Wave,Volt Switch,Play Rough,,,,,Braviary,54341,1231,3605
+30,4,4,Dedenne (M),Rash,Pickup,Luxury Ball,31,00,27,02,09,31,123,108,47,49,63,77,Protect,Thunder Wave,Volt Switch,Play Rough,,,,,Braviary,54341,1231,3271
+30,4,5,Dedenne (F),Quiet,Pickup,Luxury Ball,08,31,12,01,29,31,150,40,22,84,29,22,Protect,Thunder Wave,Volt Switch,Play Rough,,,,,Braviary,54341,1231,3743
+30,4,6,Dedenne (F),Lonely,Pickup,Luxury Ball,31,07,31,16,09,00,159,130,34,76,37,74,Protect,Thunder Wave,Volt Switch,Play Rough,,,,,Braviary,54341,1231,4053
+30,5,1,Dedenne (M),Brave,Pickup,Luxury Ball,14,06,05,31,20,31,95,35,22,24,29,18,Protect,Thunder Wave,Volt Switch,Play Rough,,,,,Braviary,54341,1231,1989
+30,5,2,Pachirisu (F),Jolly,Pickup,Great Ball,14,09,01,07,13,22,56,156,44,50,62,142,Spark,Bide,Swift,Bite,Growl,Bide,Swift,Bite,Brayden,17223,3301,0348
+30,5,3,Yveltal,Timid,Dark Aura,Timer Ball,31,27,31,31,31,31,0,0,0,0,0,0,Disable,Snarl,Dark Pulse,Oblivion Wing,,,,,Valérie,26335,0129,1219
+30,5,4,Victini,Timid,Victory Star,Ultra Ball,31,31,31,31,31,31,0,0,0,0,0,0,U-turn,Searing Shot,Final Gambit,Zen Headbutt,,,,,Abram,19930,0527,3996
