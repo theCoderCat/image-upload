@@ -33,7 +33,7 @@ app.post('/upload', function(req, res) {
 });
 app.get('/images/:filename', function(req, res) {
     var filename = req.params.filename;
-    res.sendFile('./uploads/' + filename);
+    res.sendFile(__dirname + '/uploads/' + filename);
 })
 
 app.listen(3000, function() {
